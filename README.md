@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is Vitalii Li. I am an easy-going, curious, and well-focused developer.
+My name is Vitalii Li. 
 
-I'm an extravert. I build stuff. Backend mostly.
+I'm a curious web developer with a strong interest in .NET, microservices, NoSQL and backend in general.
 
-Hopefully, stuff that helps people and makes them happier. 🙂
+I'm an extravert. I like to buld stuff that helps people and makes them happier. 🙂
 
 <!--
 **leevg/leevg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
