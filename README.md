@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Oleg Karpenko. I am an easy-going, curious, and well-focused developer.
+
+I'm an extravert. I build stuff. Backend mostly.
+
+Hopefully, stuff that helps people and makes them happier. 🙂
+
 <!--
 **leevg/leevg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
