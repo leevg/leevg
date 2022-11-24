@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Oleg Karpenko. I am an easy-going, curious, and well-focused developer.
+My name is Vitalii Li. I am an easy-going, curious, and well-focused developer.
 
 I'm an extravert. I build stuff. Backend mostly.
 
