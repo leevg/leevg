@@ -2,7 +2,7 @@
 
 My name is Vitalii Li. 
 
-I'm a curious web developer with a strong interest in .NET, microservices, NoSQL and backend in general.
+I'm a curious web developer with a strong interest in .NET. Python, microservices, NoSQL and backend in general.
 
 I'm an extravert. I like to buld stuff that helps people and makes them happier. 🙂
 
